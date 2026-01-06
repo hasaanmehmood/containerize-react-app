@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hello to Blue NGINX!
+         Hello to Purple NGINX!
         </p>
         <a
           className="App-link"
